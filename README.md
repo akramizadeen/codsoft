@@ -1,2 +1,1 @@
 # codsoft
-CODSOFT Internship tasks
